@@ -1,6 +1,6 @@
-﻿- Name: activity-logger
+﻿- Name: ActivityLogger
   Version: 1.0.0
-  DLL: bin/Debug/net452/activity-logger.dll
+  DLL: bin/Debug/net452/ActivityLogger.dll
   Dependencies:
     - Name: Everest
       Version: 1.3164.0
